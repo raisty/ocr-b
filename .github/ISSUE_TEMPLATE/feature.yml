@@ -1,12 +1,12 @@
 name: Font Feature Request 🔮
-description: Suggest improvements or new features for the OCR-B UFO font
+description: Suggest improvements or new features for the OCRB font
 labels:
   - enhancement
 body:
   - type: markdown
     attributes:
       value: |
-        Suggest improvements or new features for the OCR-B UFO font. Please be as specific as possible.
+        Suggest improvements or new features for the OCRB font. Please be as specific as possible.
 
   - type: textarea
     id: feature
