@@ -1,12 +1,12 @@
 name: Font Bug Report 🪲
-description: Report issues with the OCR-B UFO font file or its implementation
+description: Report issues with the Machine font file or its implementation
 labels:
   - bug
 body:
   - type: markdown
     attributes:
       value: |
-        Please provide details about any issues with the OCR-B UFO font file or its implementation.
+        Please provide details about any issues with the Machine font file or its implementation.
 
   - type: markdown
     attributes:
@@ -26,7 +26,7 @@ body:
     id: bug
     attributes:
       label: Bug Description
-      description: Describe the issue with the UFO font file.
+      description: Describe the issue with the font file.
       placeholder: Describe the bug
     validations:
       required: true
@@ -35,9 +35,9 @@ body:
     id: reproduce
     attributes:
       label: Steps to Reproduce
-      description: Steps to reproduce the behavior with the UFO file.
+      description: Steps to reproduce the behavior with the font file.
       placeholder: |
-        1. Open UFO file in...
+        1. Open font file in...
         2. Attempt to...
         3. Observe...
     validations:
